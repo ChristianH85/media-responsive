@@ -1,0 +1,37 @@
+body{
+    background-color:rgb(0,0,0);
+    background-image:url(http://www.zingerbugimages.com/backgrounds/green_marble_background_seamless.jpg);
+    background-position:top left;
+    background-repeat:repeat;
+    background-attachment:fixed;
+}
+.lead{
+    color:rgb(53, 39, 10);
+}
+#jumbotron{
+    background-color: antiquewhite;
+    color: rgb(53, 39, 10)
+}
+.wins{
+    font-size: 32px;
+    color: blue;
+}
+.guesses{
+    font-size:32px;
+    color: orange
+}
+.losses{
+    font-size: 32px;
+    color: black
+
+}
+.guessed{
+    font-size: 32px;
+    color:brown;
+}
+.start{
+    font-size:25px;
+}
+.container{
+    background-color: antiquewhite;
+}
